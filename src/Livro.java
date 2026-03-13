@@ -1,6 +1,7 @@
 import java.util.StringTokenizer;
 
 public class Livro {
+    //tipos primitivos: int, double, char, boolean
     //Atributos: Características do objeto
     //tipo nomeAtributo;
     String titulo;
@@ -10,5 +11,6 @@ public class Livro {
     int paginas;
     String resumo;
     String tipoCapa;
+    String classificacaoIndicativa;
 }
 
